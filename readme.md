@@ -9,12 +9,14 @@
 An opinionated extension package for [Laravel Orchid](orchid) to extend its table handling capabilities, and some
 further useful helper methods.
 
+### Orchid 14 support
+
 ## Installation
 
 Via Composer
 
 ``` bash
-$ composer require lintaba/orchid-tables
+$ composer require KakaDemon/orchid-tables
 ```
 
 ## Usage
