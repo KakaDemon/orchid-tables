@@ -1,5 +1,5 @@
 {
-    "name": "KakaDemon/orchid-tables",
+    "name": "kakademon/orchid-tables",
     "description": "Orchid 14 support. An opinionated extension package for Laravel Orchid to extend its table handling capabilities, and some further useful helper methods.",
     "type": "library",
     "license": "MIT",
