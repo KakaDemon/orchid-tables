@@ -19,6 +19,12 @@ Via Composer
 $ composer require KakaDemon/orchid-tables
 ```
 
+Publish Assets
+
+``` bash
+$ php artisan vendor:publish --provider="Lintaba\OrchidTables\OrchidTablesServiceProvider"
+```
+
 ## Usage
 
 This package adds the following new shiny things:
