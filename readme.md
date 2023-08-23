@@ -16,13 +16,13 @@ further useful helper methods.
 Via Composer
 
 ``` bash
-$ composer require KakaDemon/orchid-tables
+composer require KakaDemon/orchid-tables
 ```
 
 Publish Assets
 
 ``` bash
-$ php artisan vendor:publish --provider="Lintaba\OrchidTables\OrchidTablesServiceProvider"
+php artisan vendor:publish --provider="Lintaba\OrchidTables\OrchidTablesServiceProvider"
 ```
 
 ## Usage
